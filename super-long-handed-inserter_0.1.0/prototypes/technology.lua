@@ -1,0 +1,1 @@
+addTechnologyUnlocksRecipe("automation-2","super-long-handed-inserter")
