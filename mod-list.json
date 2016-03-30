@@ -1,0 +1,16 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "bomber",
+            "enabled": "true"
+        },
+        {
+            "name": "super-long-handed-inserter",
+            "enabled": "true"
+        }
+    ]
+}
